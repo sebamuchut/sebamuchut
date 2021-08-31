@@ -2,9 +2,9 @@
 
 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫, Biologist, passionate about learning…    I specialize in MERN development stack (MongoDB, ExpressJS, ReactJS/Redux, NodeJS). Experienced with all stages of the development cycle for dynamic web projects. I enjoy logic, handling data, and solving problems.
 
-I recently finished an [individual project](https://github.com/sebamuchut/PI-Videogames-FT14a): I developed a Single Page Application (SPA) where I consume an API of videogames. Some of the features include game search, filters by genre, alphabetical order, and rating. I also implemented a feature to add new games. 
+I have developed a Single Page Application (SPA) where I consume an API of [videogames](https://github.com/sebamuchut/PI-Videogames-FT14a). Some of the features include game search, filters by genre, alphabetical order, and rating. I also implemented a feature to add new games. 
 
-I am currently involved in a group project to build an E-commerce (craft beer app). Some of the features so far include: Administration of shopping cart and product orders; Differente types of product filters; Payment gateways integration; Transactional e-mails (mailgun); Product discount systems; User administration and password management; Product Owner login to administrate commerce (add, modify and delete data).
+Together with other developers we have built an [E-commerce (craft beer app)](https://la-montaner.vercel.app/). Some of the features include: Administration of shopping cart and product orders; Differente types of product filters; Payment gateways integration; Transactional e-mails (mailgun); Product discount systems; User administration and password management; Product Owner login to administrate commerce (add, modify and delete data), and an small game where the customer can win discounts.
   
 My skills: 
 
