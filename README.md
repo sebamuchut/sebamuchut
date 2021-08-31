@@ -1,6 +1,6 @@
 <h1 align= "center"> Hi there I'm Seba! 👋 </h1>
 
-Full Stack Developer, Biologist, passionate about learning…    I specialize in MERN development stack (MongoDB, ExpressJS, ReactJS/Redux, NodeJS). Experienced with all stages of the development cycle for dynamic web projects. I enjoy logic, handling data, and solving problems.
+𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫, Biologist, passionate about learning…    I specialize in MERN development stack (MongoDB, ExpressJS, ReactJS/Redux, NodeJS). Experienced with all stages of the development cycle for dynamic web projects. I enjoy logic, handling data, and solving problems.
 
 I recently finished an [individual project](https://github.com/sebamuchut/PI-Videogames-FT14a): I developed a Single Page Application (SPA) where I consume an API of videogames. Some of the features include game search, filters by genre, alphabetical order, and rating. I also implemented a feature to add new games. 
 
