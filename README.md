@@ -4,7 +4,7 @@
 
 I have developed a Single Page Application (SPA) where I consume an API of [videogames](https://github.com/sebamuchut/PI-Videogames-FT14a). Some of the features include game search, filters by genre, alphabetical order, and rating. I also implemented a feature to add new games. 
 
-Together with other developers we have built an [E-commerce (craft beer app)](https://la-montaner.vercel.app/). Some of the features include: Administration of shopping cart and product orders; Differente types of product filters; Payment gateways integration; Transactional e-mails (mailgun); Product discount systems; User administration and password management; Product Owner login to administrate commerce (add, modify and delete data), and an small game where the customer can win discounts.
+Together with other developers we have built an [E-commerce (craft beer app)](https://la-montaner.vercel.app/). Some of the features include: Administration of shopping cart and product orders; Differente types of product filters; Payment gateways integration; Transactional e-mails (mailgun); Product discount systems; User administration and password management; Product Owner login to administrate commerce (add, modify and delete data), and a small game where customers can win discounts.
   
 My skills: 
 
