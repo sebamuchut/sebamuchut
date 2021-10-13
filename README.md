@@ -19,7 +19,7 @@ Data structure | ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-s
 
 
 
-Previously I worked as a [scientist (evolution and morphology of plants)](https://www.researchgate.net/profile/Sebastian-Muchut) and college professor. Yes! I went from science to technology! As a scientist, I learned the importance of correct data management, discipline, and teamwork. As a professor I learned the importance of clear explanations and adaptation according to audience. I am now looking for that place where I can contribute my skills and expand my knowledge in the world of technology.
+
 
 Get in touch:
 
