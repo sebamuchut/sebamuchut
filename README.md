@@ -8,8 +8,15 @@ Together with other developers we have built an [E-commerce (craft beer app)](ht
   
 My skills: 
 
-Data structure | ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) | ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui) | <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> Javascript
- | ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) | ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux) | ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) | ![Express.js](https://img.shields.io/badge/express.js-black.svg?style=flat-square&logo=express) | SQL | <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">PostgreSQL | Sequelize | ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) | Scrum | ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+Data structure | HTML | CSS | Bootstrap | MaterialUI | Javascript | Typescript | 
+
+RectJs | NextJs | Redux | 
+
+NodeJs | ExpressJs | GraphQL
+
+SQL | PostgreSQL | Sequelize | MongoDB | 8Base
+
+Scrum | Git | Github
 
 
 
