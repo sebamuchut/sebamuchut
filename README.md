@@ -9,7 +9,7 @@ Data structure | HTML | CSS | Bootstrap | MaterialUI | Javascript | Typescript |
 
 RectJs | Redux | NextJs |
 
-NodeJs | ExpressJs | KoaJs| GraphQL |
+NodeJs | ExpressJs | KoaJs | GraphQL |
 
 SQL | PostgreSQL | Sequelize | MongoDB | 8Base |
 
