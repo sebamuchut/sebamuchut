@@ -7,13 +7,13 @@ My skills:
 
 Data structure | HTML | CSS | Bootstrap | MaterialUI | Javascript | Typescript | 
 
-RectJs | NextJs | Redux | 
+RectJs | Redux | NextJs |
 
-NodeJs | ExpressJs | GraphQL
+NodeJs | ExpressJs | KoaJs| GraphQL |
 
-SQL | PostgreSQL | Sequelize | MongoDB | 8Base
+SQL | PostgreSQL | Sequelize | MongoDB | 8Base |
 
-Scrum | Git | Github
+Scrum | Git | Github |
 
 
 
